@@ -12,6 +12,8 @@ Just a file uploader made in php
 - download all the files
 - extract it and upload it to your webserver
 - run the `index.php` file
+- now go to the browser and type your domain url and it should load
+- next click on `choose file` then click on `upload the file` and it should upload the file. to view your file click on `view your files` and it should redirect to the file manager
 - thats it
 
 ## ✨ Note
