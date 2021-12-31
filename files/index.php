@@ -485,9 +485,7 @@ $(function(){
   <br/>
   <br/>
   <br/>
-
-    <center><img src="https://media.discordapp.net/attachments/917342184099942460/926421597819133982/external-content.duckduckgo.com1.png" alt="heart" /></center>
-  <h3 text-align="center"><a href="https://projects.afnanksalal.xyz"><strong><code> <center>Go back to uploader</center></code></strong></a></h3>
+  <h3 text-align="center"><a href="./index.php"><strong><code> <center>Go back to uploader</center></code></strong></a></h3>
   <h3 text-align="center"><a href="https://afnanksalal.xyz"><strong><code> <center>Made by Afnan</center></code></strong></a></h3>
 </body>
 </html>
