@@ -1,8 +1,8 @@
 <html>
 <style>
     body {
-        color: #f9f7db;
-        background-color: #433737;
+        color: #433737;
+        background-color: #f9f7db;
         text-align: center;
         margin: 0;
         padding: 0;
@@ -11,7 +11,7 @@
     }
     
     a {
-        color: #f9f7db;
+        color: #433737;
         text-decoration: underline;
     }
 </style>
