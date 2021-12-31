@@ -485,7 +485,7 @@ $(function(){
   <br/>
   <br/>
   <br/>
-  <h3 text-align="center"><a href="./index.php"><strong><code> <center>Go back to uploader</center></code></strong></a></h3>
+  <h3 text-align="center"><a href="../"><strong><code> <center>Go back to uploader</center></code></strong></a></h3>
   <h3 text-align="center"><a href="https://afnanksalal.xyz"><strong><code> <center>Made by Afnan</center></code></strong></a></h3>
 </body>
 </html>
