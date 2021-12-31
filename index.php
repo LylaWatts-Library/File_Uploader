@@ -63,6 +63,14 @@ a {
 		<input type="submit" id="submit" name="submit" value="Upload file" /> <strong><code><label for="submit"> Upload the file </label></code></strong> </form>
 	<br/>
 	<br/>
-	<h1><a href="./files/index.php"><strong><code>View your files!</code></strong></a></h1> </body>
+	<h1><a href="./files/index.php"><strong><code>View your files!</code></strong></a></h1> 
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+    <h3 text-align="center"><a href="https://afnanksalal.xyz"><strong><code> <center>Made by Afnan</center></code></strong></a></h3></body>
 
 </html>
