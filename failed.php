@@ -25,12 +25,11 @@
     <h1><strong><code>File failed to upload!</code></strong></h1>
     <br/>
     <br/>
-    <img src="https://media.discordapp.net/attachments/917342184099942460/926423158972612658/heartee.png" alt="heart" />
     <br/>
     <br/>
     <br/>
     <br/>
-    <h1><a href="https://projects.afnanksalal.xyz/files/index.php"><strong><code>View your files!</code></strong></a></h1>
+    <h1><a href="./files/index.phpp"><strong><code>View your files!</code></strong></a></h1>
 </body>
 
 </html>
