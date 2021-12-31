@@ -1,8 +1,8 @@
 <html>
 <style>
     body {
-        color: #252525;
-        background-color: white;
+        color: #f9f7db;
+        background-color: #433737;
         text-align: center;
         margin: 0;
         padding: 0;
@@ -11,7 +11,7 @@
     }
     
     a {
-        color: #252525;
+        color: #f9f7db;
         text-decoration: underline;
     }
 </style>
@@ -29,7 +29,7 @@
     <br/>
     <br/>
     <br/>
-    <h1><a href="./files/index.phpp"><strong><code>View your files!</code></strong></a></h1>
+    <h1><a href="./files/index.php"><strong><code>View your files!</code></strong></a></h1>
 </body>
 
 </html>
