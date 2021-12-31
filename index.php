@@ -1,7 +1,7 @@
 <html>
 <style>
 body {
-	background-color: white;
+	background-color: #f9f7db;
 	text-align: center;
 	margin: 0;
 	padding: 0;
@@ -18,7 +18,7 @@ input[type="submit"] {
 
 label {
 	font-size: 20px;
-	border: 5px solid #252525;
+	border: 5px solid #433737;
 	line-height: 1;
 	border-radius: 30px;
 	padding: 12px 17px;
@@ -30,13 +30,13 @@ label {
 }
 
 label:hover {
-	border: 5px solid #252525;
-	color: white;
-	background-color: #252525;
+	border: 5px solid #433737;
+	color: #f9f7db;
+	background-color: #433737;
 }
 
 a {
-	color: #252525;
+	color: #433737;
 	text-decoration: underline;
 }
 </style>
@@ -45,7 +45,7 @@ a {
 	<title>Files Uploader - By Afnan</title>
 </head>
 
-<body text="#252525">
+<body text="#433737">
 	<br/>
 	<h1><strong><code>Upload your files!</code></strong></h1>
 	<br/>
