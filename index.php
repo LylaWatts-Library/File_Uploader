@@ -49,7 +49,6 @@ a {
 	<br/>
 	<h1><strong><code>Upload your files!</code></strong></h1>
 	<br/>
-	<br/> <img src="https://media.discordapp.net/attachments/917342184099942460/926423158972612658/heartee.png" alt="heart" />
 	<br/>
 	<br/>
 	<br/>
@@ -64,6 +63,6 @@ a {
 		<input type="submit" id="submit" name="submit" value="Upload file" /> <strong><code><label for="submit"> Upload the file </label></code></strong> </form>
 	<br/>
 	<br/>
-	<h1><a href="https://projects.afnanksalal.xyz/files/index.php"><strong><code>View your files!</code></strong></a></h1> </body>
+	<h1><a href="./files/index.php"><strong><code>View your files!</code></strong></a></h1> </body>
 
 </html>
