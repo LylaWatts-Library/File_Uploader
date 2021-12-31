@@ -26,8 +26,8 @@ if($PASSWORD) {
 		}
 		echo '<html><body>
 <style>body{
-  color: #252525;
-  background-color: white;
+  color: #433737;
+  background-color: #f9f7db;
   text-align: center; 
   margin: 0;
   padding: 0;
@@ -194,41 +194,41 @@ $MAX_UPLOAD_SIZE = min(asBytes(ini_get('post_max_size')), asBytes(ini_get('uploa
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
 <style>
-body {font-family: "lucida grande","Segoe UI",Arial, sans-serif; font-size: 14px;width:1024;padding:1em;margin:5; background-color: white; border: 5px solid #252525; text-decoration:bold; font-size:19px;border-radius: 30px;}
-th {font-weight: normal; color: #252525; background-color:white; padding:.5em 1em .5em .2em; 
+body {font-family: "lucida grande","Segoe UI",Arial, sans-serif; font-size: 14px;width:1024;padding:1em;margin:5; background-color: #f9f7db; border: 5px solid #433737; text-decoration:bold; font-size:19px;border-radius: 30px;}
+th {font-weight: normal; color: #433737; background-color:#f9f7db; padding:.5em 1em .5em .2em; 
 	text-align: left;cursor:pointer;user-select: none;}
 th .indicator {margin-left: 6px }
-thead {border-top: 3px solid #252525; border-bottom: 3px solid #252525;border-left: 3px solid #252525;
-	border-right: 3px solid #252525; }
+thead {border-top: 3px solid #433737; border-bottom: 3px solid #433737;border-left: 3px solid #433737;
+	border-right: 3px solid #433737; }
 #top {height:52px;}
 #mkdir {display:inline-block;float:right;padding-top:16px;}
-label { display:block; font-size:11px; color: #252525;}
-#file_drop_target {width:500px; padding:12px 0; border: 4px dashed #252525;font-size:12px;color:#252525;
+label { display:block; font-size:11px; color: #433737;}
+#file_drop_target {width:500px; padding:12px 0; border: 4px dashed #433737;font-size:12px;color:#433737;
 	text-align: center;float:right;margin-right:20px;}
-#file_drop_target.drag_over {border: 4px dashed #252525; color: #252525;}
+#file_drop_target.drag_over {border: 4px dashed #433737; color: #433737;}
 #upload_progress {padding: 4px 0;}
-#upload_progress .error {color:white;}
+#upload_progress .error {color:#f9f7db;}
 #upload_progress > div { padding:3px 0;}
 .no_write #mkdir, .no_write #file_drop_target {display: none}
-.progress_track {display:inline-block;width:200px;height:10px;border:1px solid white;margin: 0 4px 0 10px;}
-.progress {background-color: white;height:10px; }
-footer {font-size:11px; color:white; padding:4em 0 0;text-align: left;}
-footer a, footer a:visited {color:white;}
-#breadcrumb { padding-top:34px; font-size:15px; color:white;display:inline-block;float:left;}
+.progress_track {display:inline-block;width:200px;height:10px;border:1px solid #f9f7db;margin: 0 4px 0 10px;}
+.progress {background-color: #f9f7db;height:10px; }
+footer {font-size:11px; color:#f9f7db; padding:4em 0 0;text-align: left;}
+footer a, footer a:visited {color:#f9f7db;}
+#breadcrumb { padding-top:34px; font-size:15px; color:#f9f7db;display:inline-block;float:left;}
 #folder_actions {width: 50%;float:right;}
-a, a:visited { color:#252525; text-decoration: none}
+a, a:visited { color:#433737; text-decoration: underline}
 a:hover {text-decoration: underline}
 .sort_hide{ display:none;}
 table {border-collapse: collapse;width:100%;}
 thead {max-width: 1024px}
-td { padding:.2em 1em .2em .2em; border-bottom:1px solid white;height:30px; font-size:12px;white-space: nowrap;}
-td.first {font-size:14px;white-space: normal;}
-td.empty { color:white; font-style: italic; text-align: center;padding:3em 0;}
+td { padding:.2em 1em .2em .2em; border-bottom:1px solid #f9f7db;height:30px; font-size:12px;#f9f7db-space: nowrap;}
+td.first {font-size:14px;#f9f7db-space: normal;}
+td.empty { color:#f9f7db; font-style: italic; text-align: center;padding:3em 0;}
 .is_dir .size {color:transparent;font-size:0;}
-.is_dir .size:before {content: "--"; font-size:14px;color:white;}
+.is_dir .size:before {content: "--"; font-size:14px;color:#f9f7db;}
 .is_dir .download{visibility: hidden}
 a.delete {display:inline-block;
-	color:#252525;	margin-left: 15px;font-size:19px;padding:0 0 0 13px;
+	color:#433737;	margin-left: 15px;font-size:19px;padding:0 0 0 13px;
 }
 .name {
 	background:  no-repeat scroll 0px 12px;
@@ -485,6 +485,7 @@ $(function(){
   <br/>
   <br/>
   <br/>
+
   <h3 text-align="center"><a href="../"><strong><code> <center>Go back to uploader</center></code></strong></a></h3>
   <h3 text-align="center"><a href="https://afnanksalal.xyz"><strong><code> <center>Made by Afnan</center></code></strong></a></h3>
 </body>
